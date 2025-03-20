@@ -1,22 +1,18 @@
+A reupload, but currently being fixed of swagging-post's stolen Blooket Cheats, as well as-
 # THE BEST, PRO, BLOOKET CHEAT GUI OUT THERE!
 Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 ![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
-# READ FOR IMPORTANT INFO! | V2.
-A reupload, but currently being fixed of my stolen Blooket Cheats.
+# UPDATES | V2.1
+- We are we currently working on the Laser Tag gamemode to bypass. This may take a bit but it isn't expected to at all work.
+- Icons are expected to be fixed later.
 
-<p align="center">Cheats now being managed by SC0TT until further notice.</p>
+## GUI Now Managed By KindleKid
 <p align="center">🚨 IF BEN READS THIS: THIS IS A PARODY GUI, THIS DOESN'T WORK CORRECTLY! 🚨</p>
-<h3 align="center"><a href="https://discord.gg/ZDDcsr9SQZ">Support Server | #tickets </a></h2>
 <h3 align="center"><a href="#list-of-cheats-1">List Of Cheats</a></h3>
 
 ## Star History
-<a href="https://star-history.com/#swagging-post/blooket-cheat-gui&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=swagging-post/blooket-cheat-gui&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=swagging-post/blooket-cheat-gui&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=swagging-post/blooket-cheat-gui&type=Date" />
- </picture>
-</a>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KindleKid/Blooket-Cheat-GUI-aka-Swaggers-GUI&type=Date)](https://www.star-history.com/#KindleKid/Blooket-Cheat-GUI-aka-Swaggers-GUI&Date)
 
 ## Information
 
